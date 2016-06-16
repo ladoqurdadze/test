@@ -1,0 +1,4 @@
+#ignore  "ladosweb_upload"
+ladosweb_upload/
+#ignore some files from docs
+docs/*.txt 
