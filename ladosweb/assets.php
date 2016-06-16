@@ -1,7 +1,10 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 /*
  * Новости
+ 
+ WWWWWWWWWWWWWWWWWWWWWWWWWWW
  */
+ 
 class Controller_Index_Assets extends Controller_Index
 {
 //----------------------------------------------------------------------------------------------------------------------

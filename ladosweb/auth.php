@@ -1,6 +1,6 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 /*
- * Авторизация
+ * Авторизация dddddddddd
  */
 class Controller_Index_Auth extends Controller_Index {
 
