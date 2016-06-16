@@ -1,6 +1,6 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 /*
- * Новости  AAAAAAAAAAAAAAAA
+ * Новости  sssssssssssss
  
  WWWWWWWWWWWWWWWWWWWWWWWWWWW
  */
