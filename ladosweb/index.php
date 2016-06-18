@@ -7,6 +7,9 @@
  Git Checkout new_f  new_f   new_f  
 
  
+  Branch  master ---------->  cvlileba master -s ganshtoebashi !!! 
+  
+
 
  * The directory in which your application specific resources are located.
  * The application directory must contain the bootstrap.php file.
