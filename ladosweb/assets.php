@@ -2,7 +2,7 @@
 /*
  * Новости  sssssssssssss
  
- WWWWWWWWWWWWWWWWWWWWWWWWWWW
+ WWWWWWWWWWWWW     ------------         WWWWWWWWWWWWWW
  */
  
 class Controller_Index_Assets extends Controller_Index
